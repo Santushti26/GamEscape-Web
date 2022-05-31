@@ -74,4 +74,5 @@ document.getElementById("homeValo").onclick = (event) => {
     window.location.reload();
 };
 
-setInterval(() => window.scrollTo(0, 0), 0);
+setInterval(() => window.scrollTo(0, 0), 0); 
+// taaki windows scroll na ho sake
